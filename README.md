@@ -1,6 +1,9 @@
+
 # SwiftUI .task() vs .onAppear() Demo
 
 A practical SwiftUI demonstration app that showcases the differences between `.task()` and `.onAppear()` view modifiers through a live cat facts streaming example.
+
+![SwiftUI .task() vs .onAppear() Demo](substack.png)
 
 ## 📖 About
 
